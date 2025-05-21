@@ -27,11 +27,11 @@ Sileem was originally released for iOS 16 and has since been updated to support 
 
 
 
-![image](https://github.com/Future-Jailbreak/ios-17-6-jailbreak/assets/172568410/487ee748-644c-4346-8529-44326165e245)
+![image](https://github.com/Future-Jailbreak/ios-17-6-jailbreak/assets/172568410/487ee748-644c-4346-8529-44326165e245) 
 
 📥 <a href="https://xookz.com/sileem/#btn">Install Sileem</a> 📥
 
-
+<br><br>
 
 ### 2. `Redensa Jailbreak for iOS 18.5`:
 
@@ -45,6 +45,8 @@ Sileem was originally released for iOS 16 and has since been updated to support 
 
 Redensa is the first jailbreak installer for iOS 18.5 that works through the terminal. It is compatible with all iPhone and iPad models. With Redensa, you can do more than just install jailbreak apps. You can also change iOS settings, add third-party apps and themes, and even use web-based jailbreak tools like ChatGPT.
 
+<br><br>
+
 ### 3. `Unc0ver Black Edition for iOS 18.5 Jailbreak`:
 
 Unc0ver Black Edition is an alternative to the Unc0ver semi-tethered jailbreak tool. While the original Unc0ver supports iOS versions from iOS 11 to iOS 14.8, the Black Edition is the latest online jailbreak solution for iOS 16 to iOS 17.4.1, iOS 17.5 to iOS 17.3, and iOS 18.5. It is fully compatible with newer iPhone models, including the iPhone 15 series.
@@ -56,7 +58,7 @@ Unc0ver Black Edition is an alternative to the Unc0ver semi-tethered jailbreak t
 📥 <a href="https://xookz.com/uncover-black-edition/#btn">Install Unc0ver Black Edition</a> 📥
 
 
-
+<br><br>
 
 ### 4. `Palera1n Virtual Terminal Jailbreak for iOS 18.5`:
 
@@ -69,7 +71,7 @@ Palera1n Virtual Terminal Jailbreak offers an advanced online solution for the l
 📥 <a href="https://xookz.com/palerain-jailbreak/#palera1nvirtual">Install Palera1n Virtual Terminal Jailbreak</a> 📥
 
 
-
+<br><br>
 
 ### 5. `Checkra1n Mirror Tool for iOS 18.5 Jailbreak`:
 
