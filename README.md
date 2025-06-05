@@ -36,14 +36,11 @@ Sileem was originally released for iOS 16 and has since been updated to support 
 ### 2. `Redensa Jailbreak for iOS 18.5`:
 
 
+Redensa is the first jailbreak installer for iOS 18.5 that works through the terminal. It is compatible with all iPhone and iPad models. With Redensa, you can do more than just install jailbreak apps. You can also change iOS settings, add third-party apps and themes, and even use web-based jailbreak tools like ChatGPT.
 
 ![image](https://github.com/Future-Jailbreak/ios-17-6-jailbreak/assets/172568410/6ad347aa-ac2b-4bd6-b085-a09e8c6743b0)
 
 📥 <a href="https://xookz.com/redansa/#redensa-btn">Install Redensa</a> 📥
-
-
-
-Redensa is the first jailbreak installer for iOS 18.5 that works through the terminal. It is compatible with all iPhone and iPad models. With Redensa, you can do more than just install jailbreak apps. You can also change iOS settings, add third-party apps and themes, and even use web-based jailbreak tools like ChatGPT.
 
 <br><br>
 
